@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ComicAuthor/ComicAuthor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 欢迎您加入我的 QQ 群：344875656 ⚡⚡⚡
+
+### 我的个人博客地址在这里 [平凡的你我](https://reinness.com)
+
+[![chuzhixin's github stats](https://github-readme-stats.vercel.app/api?username=chuzhixin)](https://github.com/chuzhixin/vue-admin-beautiful)
