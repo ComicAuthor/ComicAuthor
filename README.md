@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 ### 👯 欢迎您加入我的 QQ 群：344875656 ⚡⚡⚡
 
 ### ✨ 我的个人博客地址在这里 [平凡的你我](https://reinness.com)
+
+[![ComicAuthor's github stats](https://github-readme-stats.vercel.app/api?username=ComicAuthor&count_private=true&show_icons=true)](https://github.com/ComicAuthor/github-readme-stats)
