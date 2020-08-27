@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 ### ✨ 我的个人博客地址在这里 [平凡的你我](https://reinness.com)
 
 [![ComicAuthor's github stats](https://github-readme-stats.vercel.app/api?username=ComicAuthor&count_private=true&show_icons=true)](https://reinness.com)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComicAuthor)](https://reinness.com)
