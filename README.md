@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![二次元](https://api.ixiaowai.cn/api/api.php)](https://reinness.com)
+
 ### 👯 欢迎您加入我的 QQ 群：344875656 ⚡⚡⚡
 
 ### ✨ 我的个人博客地址在这里 [平凡的你我](https://reinness.com)
