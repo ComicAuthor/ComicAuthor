@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![二次元](https://api.ixiaowai.cn/api/api.php)](https://reinness.com)
+[![二次元](https://reinness.com/titleImg/84473882.png)](https://reinness.com)
 
 ### 👯 欢迎您加入我的 QQ 群：344875656 ⚡⚡⚡
 
