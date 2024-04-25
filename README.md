@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![二次元](https://qiniu.reinness.com/titleImg/84473882.png)](https://reinness.com)
+[![二次元](https://qiniu.reinness.com/blog/typecho/772488560.jpg)](https://reinness.com)
 
 ### ✨ 我的个人博客地址在这里 [平凡的你我](https://reinness.com)
