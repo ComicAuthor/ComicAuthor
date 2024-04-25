@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 
 [![二次元](https://qiniu.reinness.com/titleImg/84473882.png)](https://reinness.com)
 
-### 👯 欢迎您加入我的 QQ 群：344875656 ⚡⚡⚡
-
 ### ✨ 我的个人博客地址在这里 [平凡的你我](https://reinness.com)
-
-[![ComicAuthor's github stats](https://github-readme-stats.vercel.app/api?username=ComicAuthor&count_private=true&show_icons=true)](https://reinness.com)
