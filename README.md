@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 [![二次元](https://qiniu.reinness.com/blog/typecho/772488560.jpg)](https://reinness.com)
 
 ### ✨ 我的个人博客地址在这里 [平凡的你我](https://reinness.com)
+
+![reinness.com](https://count.getloli.com/@reinness?name=reinness&theme=asoul&padding=7&offset=0&scale=1&pixelated=1&darkmode=auto)
